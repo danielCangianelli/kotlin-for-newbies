@@ -7,7 +7,7 @@ Corrija o erro e apresentar o valor.
 
 
 #2 Defina 'var a = 10'. Agora defina 'val b = a'.
-Agora atribua o valor de 42 para a e apresente a e b em linhas diferentes.
+Agora atribua o valor de 42 para 'a' e apresente 'a' e 'b' em linhas diferentes.
 
 
 #3 Defina duas variáveis 'x' e 'y'. Troque os valores delas e tente apresentar eles em linhas diferentes.
@@ -26,4 +26,13 @@ b) val greeting = "Hi"
 c) val = 5
 d) name = "Monjiro"
 e) let cost = 500
+ */
+
+
+
+//Dúvidas!
+/*
+
+
+
  */

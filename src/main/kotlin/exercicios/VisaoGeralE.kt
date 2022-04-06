@@ -17,6 +17,5 @@ println("Hello, World")						literal
 "Hello, World"                          	palavra-chave
 
 
-
 2) Escreva um programa que imprima a string "2 + 2 = 4"
  */
